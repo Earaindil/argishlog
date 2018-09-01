@@ -1,0 +1,35 @@
+title: Argish's Log
+description: >-
+  Cine, series, lectura, música... todas mis movidas
+baseurl: ""
+url: "https://argishlog.com"
+
+# Build settings
+markdown: kramdown
+theme: tale
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2
+
+permalink:  /:title
+
+pagination:
+  enabled: true
+  per_page: 5
+  sort_reverse: true
+  permalink: '/:num/'
+
+autopages:
+  enabled: true
+
+  categories:
+    layouts:
+        - 'category.html'
+    title: 'Archivo de :cat'
+    permalink: '/categoria/:cat'
+
+  tags:
+    layouts:
+        - 'tag.html'
+    title: 'Archivo de :tag'
+    permalink: '/tag/:tag'
