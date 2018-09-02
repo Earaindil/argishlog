@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "El maestro del agua"
-date:   2018-07-11 19:50:00 0000
-categories: Cine
+title:  "Resident Evil"
+date:   2018-08-31 18:00:00 0000
+categories: [Cine]
 tags:
 ---
-Año: 2014
+Año: 2002
 
 Puntuación:
 <i class="fa fa-star"></i>

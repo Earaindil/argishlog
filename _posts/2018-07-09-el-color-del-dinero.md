@@ -7,4 +7,9 @@ tags:
 ---
 Año: 1986
 
-Puntuación: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>
+Puntuación:
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="far fa-star"></i>
+<i class="far fa-star"></i>

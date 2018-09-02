@@ -7,4 +7,9 @@ tags: [David Lean, Alec Guinness , Bélico]
 ---
 Año: 1957
 
-Puntuación: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="far fa-star"></i>
+Puntuación:
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="far fa-star"></i>

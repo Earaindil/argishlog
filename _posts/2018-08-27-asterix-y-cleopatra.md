@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Timecop"
-date:   2018-07-30 16:00:00 0000
-categories: Cine
+title:  "Astérix y Cleopatra"
+date:   2018-08-27 22:00:00 0000
+categories: [Cine, Animación]
 tags:
 ---
-Año: 2000
+Año: 1980
 
 Puntuación:
 <i class="fa fa-star"></i>
 <i class="fa fa-star"></i>
 <i class="fa fa-star"></i>
-<i class="far fa-star"></i>
+<i class="fa fa-star"></i>
 <i class="far fa-star"></i>

@@ -7,4 +7,9 @@ tags:
 ---
 Año: 2014
 
-Puntuación: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-alt"></i><i class="far fa-star"></i>
+Puntuación:
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-half-alt"></i>
+<i class="far fa-star"></i>
